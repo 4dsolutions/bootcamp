@@ -1,1 +1,1 @@
-# bootcamp preview. inspiring excellence. MIT License.
+# Clarusway mini-bootcamp preview. inspiring excellence. MIT License.
