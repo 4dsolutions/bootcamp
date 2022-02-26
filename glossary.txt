@@ -1,0 +1,75 @@
+* localhost:  your own computer, with IP number 127.0.0.1
+* ASCII: American Standard Code for Information Interchange, 256 glyphs max.
+* BDFL:  Guido's old title, Benevolent Dictator for Life (he's now BDFL emeritus)
+* Python:  a general purpose, object-oriented computer language 
+* Python 3:  any 3.x version of Python
+* Python 2:  any 2.x version of Python (2.7.x is the last)
+* REPL: read, evaluate, print loop (interactive shell)
+* SQL:  Structured Query Language
+* TCP/IP:  Transmission Control Protocol/Internet Protocol. How computers talk to each other on the internet.
+* Unicode: supercedes ASCII, millions of glyphs (including emoji)
+* Type: the class of an object e.g. int or str
+* Instance: a special case example of a type e.g. 3 of 'a'
+* LAMP Stack:  Linux, Apache, MySQL, a P-language
+* Linux: operating system developed by Linus Torvalds and friends
+* Apache:  popular free webserver
+* Apache Foundation:  umbrella organization for many community projects
+* MySQL:  free SQL DB now owned by Oracle
+* Postgres: free SQL DB, also known as PostgreSQL
+* NoSQL:  not-only SQL (e.g. MongoDB, Cassandra)
+* MongoDB: document store with local and cloud services
+* Apache Cassandra:  a popular NoSQL DB
+* P-language: Perl, PHP, Python (in the LAMP era)
+* Django:  full-featured web application framework
+* Rhinehart, Django: gypsy jazz guitarist
+* Flask: light-weight web framework
+* Framework: smooths many tasks if one masters a bureaucracy
+* requests:  popular Python package for talking to web servers
+* sphinx:  package for building documentation as a website
+* PyPi: Python Package Index
+* CPAN: similar to PyPi but for Perl
+* Crates.io: similar to PyPi but for Rust
+* npm:  JavaScript Registry
+* Repo: repository (usually Git-based)
+* Distro:  a remix of free software (frequently a Linux, but also Anaconda)
+* SPA:  Single Page Application; web app that rewrites in place (like a Notebook)
+* I-Python magics: % and %% commands used in Jupyter code cells or the Spyder console
+* Python special name:  a name with the form `__xxxx__` (see Dunder)
+* Dunder: double-underline special name syntax e.g. "dunder add" means `__add__`
+* Operator Overloading:  taking control of operators such as \+ and \* with respect to one's own types (accomplished using special names)
+* module: a Python script, directly runnable and/or importable
+* "magic method":  Python method with a special name e.g. `__invert__`
+* `__rib__`: a mnemonic for a Python special name (also 'bone')
+* mnemonic: a memory aid, possibly an image or metaphor
+* menu-driven programs:  early programs gave users menus of choices and little more
+* event-driven programs:  programs providing a dashboard of GUI widgets listening for events
+* The Turk: apparent chess playing robot that was actually a hoax (it beat Napoleon)
+* Data Munging:  cleaning and regularizing data to make it usable in computations
+* ML: Machine Learning, training models to predict correctly
+* DL: Deep Learning, a model training technique
+* numpy package: n-dimensional array object, linear algebra
+* pandas package:  DataFrames containing Series containing numpy arrays
+* JS: JavaScript
+* Angular: JS framework from Google
+* React: JS framework from Facebook
+* HTML:  Hypertext Markup Language (version 5 most recent)
+* CSS: Cascading Style Sheet (version 3 most recent)
+* scikit-learn: Machine Learning in Python
+* TensorFlow: ML for Python from Google
+* PyTorch: ML for Python from Facebook
+* Boole, George: inventor of Boolean algebra
+* Byron, Ada: inventor of computer programming
+* Hopper, Grace:  computer scientists, US Navy Rear Admiral
+* DARPA: Defense Advanced Research Projects Agency
+* IDLE:  Python's official IDE (which DARPA helped fund)
+* Kleene, Stephen Cole:  mathematician, inventor of regex syntax
+* Regular Expression: a pattern-matching string-based a mini-language
+* re:  Python's Standard Library module implementing Regular Expressions
+* regex:  Regular Expression
+* ndarray: n-dimensional array (often 2D), a rectangle of cells, in the numpy package
+* range:  a type of Python object, a sequence defined by start, stop and step
+* list: a type of Python object, like an array, but allowed to be heterogenous
+* array:  a type of Python object, like a list but of uniform type (more like an ndarray)
+* dict: a type of Python object consisting of key-value pairs, fast lookup, core glue
+* hash table: a more generic name for the dict idea, common across most languages
+* tuple: a type of Python object, like a list but frozen
