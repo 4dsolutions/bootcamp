@@ -73,6 +73,7 @@ Machine Learning Guide,https://www.datasciencecentral.com/top-down-learning-path
 Common String Operations,https://docs.python.org/3/library/string.html
 PyData: Built-in Superheros by David Beazley,https://youtu.be/lyDLAutA88s
 Python Data Structures,https://docs.python.org/3/tutorial/datastructures.html
+Walrus Operator,https://youtu.be/QVIpHAsgMas
 Course Album,https://flic.kr/s/aHBqjzCs82
 Course Repository,https://github.com/4dsolutions/bootcamp
 MongoDB localhost edition,https://www.mongodb.com/try/download/community
@@ -85,5 +86,9 @@ Online Encyclopedia of Integer Sequences,https://oeis.org/
 Regular Expressions in Wikipedia,https://en.wikipedia.org/wiki/Regular_expression
 json module,https://docs.python.org/3/library/string.html#formatspec
 Case-Match Syntax in 3.10+,https://www.pythonpool.com/match-case-python/
+pandas read_sql,https://pandas.pydata.org/pandas-docs/version/0.15.0/generated/pandas.read_sql.html
+pandas read_csv,https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+Sampling data from a DataFrame,https://youtu.be/CBCCcssjXQY
+Search and Lookup in pandas,https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
 Socratica Channel,https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
 Python Data Science Handbook by Jake VanderPlas,https://jakevdp.github.io/PythonDataScienceHandbook
